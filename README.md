@@ -13,7 +13,7 @@ Add excel_file.xlsx and GrassHopper.py files to the root folder. In the excel fi
 In the generated report, you will find:
 <li>Status code (200, 301, 404, 500, etc.)
 <li>Unwanted tags (Sponsored, NoFollow, UGC)
-<li>Links Status (Found / Not Found)
+<li>Links Status (Links found / Links not found)
 
 In Example.rar you will find an example of the representative scan.<br>
 <b>To reuse the script, remove the result_list.xlsx from the root folder.</b>
